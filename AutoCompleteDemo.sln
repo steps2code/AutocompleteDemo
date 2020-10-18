@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoCompleteAPIES", "AutoCompleteAPIES.csproj", "{664E2AC1-EA07-46FA-B216-BF6C7B502046}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AutocompleteUI", "AutocompleteUI", "{D24738D2-2E05-4B16-B0FC-45436764D8D2}"
+	ProjectSection(SolutionItems) = preProject
+		..\AutoCompleteUI\AutoCompleteUI.html = ..\AutoCompleteUI\AutoCompleteUI.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{664E2AC1-EA07-46FA-B216-BF6C7B502046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664E2AC1-EA07-46FA-B216-BF6C7B502046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664E2AC1-EA07-46FA-B216-BF6C7B502046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664E2AC1-EA07-46FA-B216-BF6C7B502046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC3F3CD6-CF68-4136-80EB-776981E66D68}
+	EndGlobalSection
+EndGlobal
